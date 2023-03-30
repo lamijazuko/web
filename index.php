@@ -1,9 +1,3 @@
 <?php
-require 'vendor/autload.php';
-
-Flight::route('/', function(){
-    echo'Hello world!';
-});
-
-Flight::start();
+echo"My first php script";
 ?>
