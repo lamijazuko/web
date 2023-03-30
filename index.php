@@ -2,7 +2,7 @@
 require 'vendor/autload.php';
 
 Flight::route('/', function(){
-    echo'Hello world!;
+    echo'Hello world!';
 });
 
 Flight::start();
